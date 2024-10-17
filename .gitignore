@@ -1,0 +1,9 @@
+*.log
+*.aux
+*.out
+*.gz
+*.sty
+*.ttf
+*.tikzstyles
+*.DS_Store
+*.toc
